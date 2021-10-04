@@ -1,1 +1,1 @@
-displayThisText("Hello word");
+displayThisText("Hello World");
